@@ -45,8 +45,8 @@ Full-stack Software Engineer focused on web and mobile development
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
-## (WIP) Currently building: a fully local AI agent stack
-Running Qwen3.6-35B-A3B (MoE) and Gemma4 through Ollama on a CPU-only Windows box (Ryzen 5 3400G, 32GB RAM), wired into Hermes Agent for autonomous tool use. Exploring the real-world tradeoffs of local-first LLM inference: quantization vs. RAM pressure, MoE vs. dense prefill speed under agentic workloads, and sandboxed command execution via Docker.
+## (WIP) Currently trying tp:
+Run Qwen3.6-35B-A3B (MoE) and Gemma4 through Ollama on a CPU-only Windows box (Ryzen 5 3400G, 32GB RAM). Exploring the tradeoffs of local-first LLM inference: quantization vs. RAM pressure and sandboxed command execution via Docker.
 
 ## 📌Featured Projects
 
